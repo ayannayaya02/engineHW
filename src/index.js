@@ -13,6 +13,6 @@ root.render(
         <h1>Display Weather</h1>
         <p><em><strong>The weather is °F in </strong> </em></p>
         </div>
-        <engineHW/>
+        <EngineHW/>
         </StrictMode>
 );
